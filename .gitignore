@@ -5,10 +5,12 @@
 .ipynb_checkpoints/
 
 # data file
+*.mat
 *.csv
 *.zip
 *.gl/
 image_*_data/
+*.mp4
 
 # Deep Learning Big Data
 *.png
