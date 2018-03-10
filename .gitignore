@@ -15,9 +15,14 @@ image_*_data/
 # Deep Learning Big Data
 *.png
 *.jpg
+*.jpeg
 *.gif
 *.h5
 glove.6B.50d.txt
+
+## CNN
+*.otf
+*.txt
 
 ## Speech Recognition
 *.wav
